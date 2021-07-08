@@ -18,7 +18,7 @@ This application contains sample code that should not be used in a production en
 
 1. Clone Repository
 
-2. Open SampleApp.sln and Build
+2. Open iTwinProjectSampleApp.sln and Build
 
 3. (Optional) Put breakpoint in Program.cs
 
