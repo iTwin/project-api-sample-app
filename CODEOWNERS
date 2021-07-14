@@ -1,1 +1,6 @@
-@SamLanza-Bentley @davidbryant222 @mshchetk
+# These owners will be the default owners for everything in
+# the repo. Unless a later match takes precedence,
+# @SamLanza-Bentley, @davidbryant2, and @mshchetk will be requested for
+# review when someone opens a pull request.
+*       @SamLanza-Bentley @davidbryant22 @mshchetk
+
