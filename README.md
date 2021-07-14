@@ -1,4 +1,4 @@
-# iTwin Sample Project App
+# Project API Sample App
 
 Copyright © Bentley Systems, Incorporated. All rights reserved.
 
