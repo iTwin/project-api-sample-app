@@ -1,6 +1,6 @@
 # Project API Sample App
 
-Note: This API has a TypeScript Wrapper available on NPM website. To download the package and associated Readme, please see [Projects:](https://www.npmjs.com/package/@itwin/projects-client). 
+Note: This API has a TypeScript Wrapper available on NPM website. To download the package and associated Readme, please see [Projects](https://www.npmjs.com/package/@itwin/projects-client). 
 
 Copyright © Bentley Systems, Incorporated. All rights reserved.
 
