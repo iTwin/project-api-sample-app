@@ -1,7 +1,5 @@
 # Project API Sample App
 
-Note: This API has a TypeScript Wrapper available on NPM website. To download the package and associated Readme, please see [Projects](https://www.npmjs.com/package/@itwin/projects-client). 
-
 Copyright © Bentley Systems, Incorporated. All rights reserved.
 
 An iTwin sample application that demonstrates how to create, query and update an iTwin Project using the Project API. It also demonstrates how to create a project role and add a user to the project with that role.
